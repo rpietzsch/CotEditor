@@ -19,8 +19,7 @@ If your issue relates to syntax highlighting, include the sample code that can r
 First, search for existing feature requests. If your idea is already posted, comment on that thread. Otherwise, create a new one using the “Feature request” template.
 Create an issue per feature instead of listing multiple features in a single post.
 
-Please __don’t just post “+1”__ to existing requests; it makes no difference and adds noise.
-
+To express your support for a feature request, add your _reaction_ to the original post (e.g. by adding 👍). Please refrain from __replying "+1"__, it just adds noise to the discussion.
 
 
 ## Pull Requests
